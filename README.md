@@ -1,109 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vaishnavi Ayyalasomayajula - Data Analyst</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .skills, .contact ul {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 10px;
-    }
-    .resume-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #007bff;
-      color: white;
-      text-decoration: none;
-      border-radius: 4px;
-    }
-    .card {
-      border: 1px solid #ddd;
-      padding: 15px;
-      border-radius: 8px;
-      margin-top: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="section" style="text-align: center;">
-    <h1>Hello, I'm Vaishnavi Ayyalasomayajula</h1>
-    <p><strong>Data Analyst</strong></p>
-  </div>
+<h1 align="center">Hello!, I'm Vaishnavi Ayyalasomayajula</h1>
+<h3 align="center">Data Analyst</h3>
 
-  <div class="section" style="text-align: center;">
-    <p>Based in Austin, Texas, I am passionate about translating complex data into actionable insights. With a strong background in analytics and a commitment to continuous learning, I bring both technical and strategic value to organizations.</p>
-  </div>
+- I’m currently working on **SupplyChain Project**
 
-  <div class="section">
-    <h2>Skills</h2>
-    <div class="skills">
-      <div><strong>Languages & Tools:</strong><br>Python, SQL, C, Excel, Tableau, Power BI, MAXQDA</div>
-      <div><strong>Frameworks:</strong><br>PySpark, TensorFlow, Pandas, Seaborn, Matplotlib, Airflow</div>
-      <div><strong>Platforms:</strong><br>AWS, GCP, Databricks, Hadoop, GitHub, Kaggle</div>
-      <div><strong>Certifications:</strong><br>Google Data Analytics, Tableau Certified</div>
-    </div>
-  </div>
+- 🌱 I’m currently learning **Big Data , DataBricks**
 
-  <div class="section">
-    <h2>About Me</h2>
-    <p>I am a Master's student at Texas State University pursuing Data Analytics and Information Systems. My passion lies in solving real-world problems using data and building intelligent systems that support informed decision-making.</p>
-  </div>
+- Machine Learning **Forecasting Climate Change Using Machine Learning on Global Emissions, Land Use, and Demographic Data**
 
-  <div class="section">
-    <h2>Resume</h2>
-    <a href="Vaishnavi_Ayyalasomayajula_Resume.pdf" download class="resume-button">Download My Resume</a>
-  </div>
+- Analytics **Tech Company Stock Prediction**
 
-  <div class="section">
-    <h2>Experience</h2>
-    <div class="card">
-      <h3>Graduate Assistant – Data Analyst</h3>
-      <p><em>Department of Management, TXST (Aug 2024 – Present)</em></p>
-      <ul>
-        <li>Automated data pipelines using Python and SQL, improving efficiency by 40%.</li>
-        <li>Integrated data from public sources and cleaned large datasets using Excel tools.</li>
-        <li>Performed regression and clustering models to drive insights in sustainability research.</li>
-        <li>Led interviews and site visits, co-authored research reports using ML + qualitative data.</li>
-      </ul>
-    </div>
-  </div>
+- 💬 Ask me about **SQL, Python, Kaggle, Analytics, Data Warehousing**
 
-  <div class="section">
-    <h2>Education</h2>
-    <div class="card">
-      <h3>Texas State University</h3>
-      <p>MS in Data Analytics and Information Systems, GPA: 3.5 (Jan 2024 – Dec 2025)</p>
-      <p>Coursework: Machine Learning, Forecasting, Optimization, DBMS, Data Warehousing</p>
-    </div>
-    <div class="card">
-      <h3>BVRIT Hyderabad</h3>
-      <p>B.Tech in Electronics and Communication Engineering (Jul 2023)</p>
-    </div>
-  </div>
+- 📫 How to reach me **vaishnavi.ayy@gmail.com**
 
-  <div class="section contact">
-    <h2>Contact Me</h2>
-    <ul>
-      <li><strong>Email:</strong> vaishnavi.ayy@gmail.com</li>
-      <li><strong>Phone:</strong> +1-214-892-7372</li>
-      <li><strong>Location:</strong> Austin, TX, USA</li>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vaishnavi-ayyala/" target="_blank">vaishnavi-ayyala</a></li>
-    </ul>
-  </div>
-</body>
-</html>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-ayyala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-ayyala/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
